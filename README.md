@@ -1,5 +1,7 @@
 <h1 align="center"> Customer Churn Prediction Dashboard</h1>
-
+<p align="center">
+  <a href="https://customer-churn-predictor-web.streamlit.app/">🌐 Live Demo</a> 
+</p>
  ## 🚀 Overview
 
 The **Churn Prediction Dashboard** is a machine learning-powered web app that identifies which customers are at risk of leaving a service. Built with real-world telecom data, this tool helps business teams proactively engage with users before churn happens.
